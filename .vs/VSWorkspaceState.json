@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DevCard",
+    "\\DevCard\\Controllers",
+    "\\DevCard\\Views"
   ],
+  "SelectedNode": "\\DevCard\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
