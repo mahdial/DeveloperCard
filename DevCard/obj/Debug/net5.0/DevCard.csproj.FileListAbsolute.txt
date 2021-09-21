@@ -116,3 +116,6 @@ C:\Users\Emi\Source\Repos\DeveloperCard\DevCard\bin\Debug\net5.0\runtimes\win-ar
 C:\Users\Emi\Source\Repos\DeveloperCard\DevCard\obj\Debug\net5.0\Razor\Views\Home\CreateProjects.cshtml.g.cs
 C:\Users\Emi\Source\Repos\DeveloperCard\DevCard\obj\Debug\net5.0\Razor\Views\Home\Components\Projects\Projects.cshtml.g.cs
 C:\Users\Emi\Source\Repos\DeveloperCard\DevCard\obj\Debug\net5.0\Razor\Views\Home\Components\LatestArticle\_LArticle.cshtml.g.cs
+C:\Users\Emi\Source\Repos\DeveloperCard\DevCard\obj\Debug\net5.0\Razor\Views\Shared\Header.cshtml.g.cs
+C:\Users\Emi\Source\Repos\DeveloperCard\DevCard\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\Emi\Source\Repos\DeveloperCard\DevCard\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs

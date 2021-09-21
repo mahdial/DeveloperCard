@@ -34,25 +34,11 @@
     </div>
 </section>
 
-<section class="featured-section p-3 p-lg-5">
-    <div class="container">
-        <h2 class="section-title font-weight-bold mb-5">خاص ترین پروژه ها</h2>
-        <div class="row">
-            @await Component.InvokeAsync("Projects")
-        </div>
- 
-    </div>
-</section>
+@await Component.InvokeAsync("Projects")
 
 <div class="container">
     <hr>
 </div>
 
-<section class="latest-blog-section p-3 p-lg-5">
-    <div class="container">
-        <h2 class="section-title font-weight-bold mb-5">آخرین مقالات</h2>
-        <div class="row">
-            @await Component.InvokeAsync("LatestArticle")
-        </div>
-    </div>
-</section>
+@await Component.InvokeAsync("LatestArticle")
+
